@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Hoang-Nhut Ly
+### 👋 Hi there, I'm Hoang-Nhut Ly (Lý Hoàng Nhựt in Vietnamese)
 
 I'm a third-year Computer Science student at **VNU-HCMUS (Advanced Program)** with a deep passion for Cybersecurity. My focus is on **Cryptography** and **Digital Forensics**.
 ---
