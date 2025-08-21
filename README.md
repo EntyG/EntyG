@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Hoang-Nhut Ly
 
-I'm a third-year Computer Science student at **VNU-HCMUS (Advanced Program)** with a deep passion for Cybersecurity. My focus is on **Cryptography** and **Digital Forensics**, and I thrive on solving complex challenges in CTF competitions.
+I'm a third-year Computer Science student at **VNU-HCMUS (Advanced Program)** with a deep passion for Cybersecurity. My focus is on **Cryptography** and **Digital Forensics**.
 ---
 
 ### 📫 How to Reach Me
